@@ -23,15 +23,15 @@ Parents who need:
 
 ### Learn more
 - Website: **[https://divkids.com](https://divkids.com)**
-- Features: [https://divkids.com/pl/funkcje](https://divkids.com/en/features)
-- Pricing: [https://divkids.com/pl/cennik](https://divkids.com/en/pricing)
+- Features: [https://divkids.com/en/features](https://divkids.com/en/features)
+- Pricing: [https://divkids.com/en/pricing](https://divkids.com/en/pricing)
 
 ### Privacy
 We process only what’s needed to deliver the service. See the privacy information on our website.
 
 ### Contact
 - support@divkids.com
-- [https://divkids.com/pl/kontakt](https://divkids.com/en/contact)
+- [https://divkids.com/en/contact](https://divkids.com/en/contact)
 
 ### License
 Proprietary. All rights reserved. See **[LICENSE.md](./LICENSE.md)**.  
